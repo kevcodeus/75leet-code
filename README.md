@@ -25,6 +25,6 @@ Each problem is stored in a separate directory with the following structure:
 | Day | Problem | Solution | Explanation |
 |-----|---------|----------|-------------|
 | 1   | [Merge Strings Alternately](./Day1/Merge_Strings_Alternatively.md) | [Solution](./Day1/P1mergeastring.py) | [Explanation](./Day1/Merge_Strings_Alternatively.md) |
-| 2   | [Greatest Common Divisor of Strings](./Day2/Greatest_Common_Divisor_of_Strings.md) | [Solution](./Day2) | [Explanation](./Day2/Greatest_Common_Divisor_of_Strings/Explanation.md) |
+| 2   | [Greatest Common Divisor of Strings](./Day2/Greatest_Common_Divisor_of_Strings.md) | [Solution](./Day2) | [Explanation](./Day2/Greatest_Common_Divisor_of_Strings.md) |
 
 https://github.com/kevcodeus/75leet-code/tree/main/Day1

@@ -1,48 +1,30 @@
+Here’s a comprehensive GitHub README template for your 75 LeetCode challenge:
 
-# Problem1:Merge Strings Alternately
+---
 
-You are given two strings word1 and word2. Merge the strings by adding letters in alternating order, starting with word1. If a string is longer than the other, append the additional letters onto the end of the merged string.
+# 75 Days LeetCode Challenge
 
-Return the merged string.
-## Example 1:
-Input: word1 = "abc", word2 = "pqr"
-Output: "apbqcr"
-Explanation: The merged string will be merged as so:
-word1:  a   b   c
-word2:    p   q   r
-merged: a p b q c r
+Welcome to my 75 Days LeetCode Challenge! 🚀
 
-## Example 2:
-Input: word1 = "ab", word2 = "pqrs"
-Output: "apbqrs"
-Explanation: Notice that as word2 is longer, "rs" is appended to the end.
-word1:  a   b 
-word2:    p   q   r   s
-merged: a p b q   r   s
+## Introduction
 
-## Example 3:
-Input: word1 = "abcd", word2 = "pq"
-Output: "apbqcd"
-Explanation: Notice that as word1 is longer, "cd" is appended to the end.
-word1:  a   b   c   d
-word2:    p   q 
-merged: a p b q c   d
- 
- 
-# Logic of the Solution
+I am on a mission to solve 75 LeetCode problems in 75 days to enhance my problem-solving skills and strengthen my understanding of data structures and algorithms. This repository contains my solutions, explanations, and learnings from each problem.
 
-### Initialize Variables:
+## Challenge Details
 
-Calculate the lengths of both strings, word1 and word2.
-Initialize an index variable i to 0.
-Create an empty list w3 to store the merged characters.
-### Loop Through Characters:
+- **Start Date**: [01-08-2024]
+- **End Date**: [31-08-2024]
+- **Total Problems**: 75
 
-Use a while loop that continues as long as i is less than the length of either string (l1 or l2).
-### Within the loop:
-If i is within the bounds of word1 (i < l1), append the character at index i from word1 to w3.
-If i is within the bounds of word2 (i < l2), append the character at index i from word2 to w3.
-Increment the index i by 1.
-Return Result:
+## Repository Structure
 
-After the loop completes, join the list w3 into a single string and return it. This merged string contains characters from word1 and word2 in alternating order, with any remaining characters from the longer string appended at the end.
+Each problem is stored in a separate directory with the following structure:
+
+## Progress
+
+| Day | Problem | Solution | Explanation |
+|-----|---------|----------|-------------|
+| 1   | [Merge Strings Alternately](./Day1/Merge_Strings_Alternately/Problem.md) | [Solution](./Day1/Merge_Strings_Alternately/Solution.py) | [Explanation](./Day1/Merge_Strings_Alternately/Explanation.md) |
+| 2   | [Greatest Common Divisor of Strings](./Day2/Greatest_Common_Divisor_of_Strings/Problem.md) | [Solution](./Day2/Greatest_Common_Divisor_of_Strings/Solution.py) | [Explanation](./Day2/Greatest_Common_Divisor_of_Strings/Explanation.md) |
+
+

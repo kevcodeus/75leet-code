@@ -26,5 +26,4 @@ Each problem is stored in a separate directory with the following structure:
 |-----|---------|----------|-------------|
 | 1   | [Merge Strings Alternately](./Day1/Merge_Strings_Alternatively.md) | [Solution](./Day1/P1mergeastring.py) | [Explanation](./Day1/Merge_Strings_Alternatively.md) |
 | 2   | [Greatest Common Divisor of Strings](./Day2/Greatest_Common_Divisor_of_Strings.md) | [Solution](./Day2) | [Explanation](./Day2/Greatest_Common_Divisor_of_Strings.md) |
-
-
+| 3   | [Kids With the Greatest Number of Candies](./Day3/Kids_With_the_Greatest_Number_of_Candies.md) | [Solution](./Day3/kidswithcandies.py) | [Explanation](./Day3/Kids_With_the_Greatest_Number_of_Candies.md) |

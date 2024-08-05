@@ -28,5 +28,6 @@ Each problem is stored in a separate directory with the following structure:
 | 2   | [Greatest Common Divisor of Strings](./Day2/Greatest_Common_Divisor_of_Strings.md) | [Solution](./Day2) | [Explanation](./Day2/Greatest_Common_Divisor_of_Strings.md) |
 | 3   | [Kids With the Greatest Number of Candies](./Day3/Kids_With_the_Greatest_Number_of_Candies.md) | [Solution](./Day3/KidsWiththeGreatestNumberofCandies.py) | [Explanation](./Day3/Kids_With_the_Greatest_Number_of_Candies.md) |
 | 4   | [Can Place Flowers](./Day4/canplaceflowers.md) | [Solution](./Day4/canplaceflowers.py) | [Explanation](./Day4/canplaceflowers.md) |
+| 5   | [Reverse Vowels of a String](./Day5/ReverseVowelsofaString.py) | [Solution](./Day5/ReverseVowelsofaString.md) | [Explanation](./Day5/ReverseVowelsofaString.md)
 
 

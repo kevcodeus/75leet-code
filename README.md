@@ -32,4 +32,6 @@ Each problem is stored in a separate directory with the following structure:
 | 6   | [Reverse Words in a String](./Day6/ReverseWordsinaString.md) | [Solution](./Day6/ReverseWordsinaString.py) | [Explanation](./Day6/ReverseWordsinaString.md) |
 | 7   | [Product of Array Except Self](./Day7/ProductofArrayExceptSelf.md) | [Solution](./Day7/ProductofArrayExceptSelf.py) | [Explanation](./Day7/ProductofArrayExceptSelf.md) |
 | 8   | [Increasing Triplet Subsequence](./Day8/IncreasingTripletSubsequence.md) | [Solution](./Day8/IncreasingTripletSubsequence.py) | [Explanation](./Day8/IncreasingTripletSubsequence.md) |
+| 9   | [StringCompression.md](./Day9/StringCompression.md) | [Solution](./Day9/StringCompression.py) | [Explanation](./Day9/StringCompression.md) |
+
 

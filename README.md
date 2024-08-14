@@ -35,6 +35,11 @@ Each problem is stored in a separate directory with the following structure:
 | 9   | [String Compression](./Day9/StringCompression.md) | [Solution](./Day9/StringCompression.py) | [Explanation](./Day9/StringCompression.md) |
 | 10   | [Move Zeroes](./Day10/MoveZeroes.md) | [Solution](./Day10/MoveZeroes.py) | [Explanation](./Day10/MoveZeroes.md) |
 | 11   | [Is Subsequence](./Day11/IsSubsequence.md) | [Solution](./Day11/IsSubsequence.py) | [Explanation](./Day11/IsSubsequence.md) |
+| 12   | [Container With Most Water](./Day12/ContainerWithMostWater.md) | [Solution](./Day12/ContainerWithMostWater.py) | [Explanation](./Day12/ContainerWithMostWater.md) |
+| 13   | [Max Number of K-Sum Pairs](./Day13/MaxNumberofK-SumPairs.md) | [Solution](./Day13/MaxNumberofK-SumPairs.py) | [Explanation](./Day13/MaxNumberofK-SumPairs.md) |
+
+
+
 
 
 

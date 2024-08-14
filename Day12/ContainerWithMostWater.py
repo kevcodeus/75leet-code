@@ -10,7 +10,7 @@ class Solution:
                 r -= 1
 				
         return area
-height = [1,8,6,2,5,4,8,3,7]  # Example input
+height = [1,8,6,2,5,4,8,3,7]  
 solution = Solution()
 result = solution.maxArea(height)
 print(f"Maximum water the container can store: {result}")

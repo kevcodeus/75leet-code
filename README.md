@@ -40,6 +40,8 @@ Each problem is stored in a separate directory with the following structure:
 | 14   | [Maximum Average Subarray](./Day14/MaximumAverageSubarray.md ) | [Solution](./Day14/MaximumAverageSubarray.py) | [Explanation](./Day14/MaximumAverageSubarray.md) |
 | 15   | [Maximum Number of Vowels in a Substring of Given Length](./Day15/MaximumNumberofVowelsinaSubstringofGivenLength.md ) | [Solution](./Day15/MaximumNumberofVowelsinaSubstringofGivenLength.py) | [Explanation](./Day15/MaximumNumberofVowelsinaSubstringofGivenLength.md) |
 | 16   | [Max Consecutive Ones](./Day16/MaxConsecutiveOnes.md ) | [Solution](./Day16/MaxConsecutiveOnes.py) | [Explanation](./Day16/MaxConsecutiveOnes.md) |
+| 17   | [Longest Subarray of 1's After Deleting One Element](./Day17/LongestSubarrayof1'sAfterDeletingOneElement.md ) | [Solution](./Day17/LongestSubarrayof1'sAfterDeletingOneElement.py) | [Explanation](./Day17/LongestSubarrayof1'sAfterDeletingOneElement.md ) |
+
 
 
 

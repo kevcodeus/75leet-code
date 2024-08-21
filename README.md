@@ -43,8 +43,8 @@ Each problem is stored in a separate directory with the following structure:
 | 17   | [Longest Subarray of 1's After Deleting One Element](./Day17/LongestSubarrayof1'sAfterDeletingOneElement.md ) | [Solution](./Day17/LongestSubarrayof1'sAfterDeletingOneElement.py) | [Explanation](./Day17/LongestSubarrayof1'sAfterDeletingOneElement.md ) |
 | 18   | [Find the Highest Altitude](./Day18/FindtheHighestAltitude.md ) | [Solution](./Day18/FindtheHighestAltitude.py) | [Explanation](./Day18/FindtheHighestAltitude.md ) |
 | 19   | [Find the Highest Altitude](./Day19/FindtheHighestAltitude.md ) | [Solution](./Day19/FindtheHighestAltitude.py) | [Explanation](./Day19/FindtheHighestAltitude.md  ) |
-
-
+| 20   | [Find the Difference of Two Arrays](./Day20/FindtheDifferenceofTwoArrays.md ) | [Solution](./Day20/FindtheDifferenceofTwoArrays.py) | [Explanation](./Day20/FindtheDifferenceofTwoArrays.md  ) |
+| 21   | [Unique Number of Occurrences](./Day21/UniqueNumberofOccurrences.md ) | [Solution](./Day21/UniqueNumberofOccurrences.py) | [Explanation](./Day21/UniqueNumberofOccurrences.md ) |
 
 
 
